@@ -1,20 +1,125 @@
+<div align="center">
 
+# Hi there, I'm Nandini Verma 👋
 
-- # 💫 About Me:
-# Hi 👋, I'm Nandini Verma<br><br># Computer Science Engineering Undergraduate | Python | SQL | Data Analytics | Machine Learning<br><br>I'm a Computer Science Engineering undergraduate at JECRC Foundation, Jaipur,<br>with an interest in data-driven applications, software development, and<br>machine learning.<br><br>I enjoy working with data, building practical applications, developing APIs,<br>and turning ideas into working solutions.<br><br>---<br><br>## 🛠️ Tech Stack<br><br>### Programming<br>- Python<br>- C<br>- C++<br>- SQL<br><br>### Data & Analytics<br>- Pandas<br>- NumPy<br>- Scikit-learn<br>- Power BI<br>- MS Excel<br>- Matplotlib<br><br>### Machine Learning<br>- LightGBM<br>- TensorFlow<br>- Keras<br><br>### Development<br>- FastAPI<br>- REST APIs<br>- Streamlit<br>- HTML/CSS<br><br>### Tools<br>- Git<br>- GitHub<br>- VS Code<br><br>---<br><br>## 📌 Featured Projects<br><br>### 📈 Store-Item Demand Forecasting<br><br>**Python | Pandas | LightGBM | Scikit-learn**<br><br>- Built a demand forecasting application for multiple store-item combinations.<br>- Created lag, rolling and date-based features.<br>- Evaluated forecasting performance using SMAPE and MAE.<br>- Generated forecasts across multiple store-item datasets.<br><br>---<br><br>### 🩺 Skin Cancer Detection System<br><br>**Python | TensorFlow | Keras | FastAPI | Streamlit**<br><br>- Built an image classification application for skin-lesion classification.<br>- Implemented image preprocessing and model inference.<br>- Developed REST APIs using FastAPI.<br>- Created a Streamlit interface for image submission and prediction.<br><br>---<br><br>### 💬 Twitter Sentiment Analysis<br><br>**Python | NLP | Scikit-learn | Streamlit**<br><br>- Built a text sentiment classification application.<br>- Implemented text preprocessing and TF-IDF feature extraction.<br>- Used Logistic Regression for classification.<br>- Created an interactive Streamlit interface.<br><br>---<br><br>## 💼 Experience<br><br>### Data Science Intern — Celebal Technologies<br>Analyzed datasets, identified patterns and worked on predictive-model evaluation.<br><br>### Python Programming Intern — Centre for Electronic Governance<br>Developed Python applications using data structures, functions and OOP.<br><br>---<br><br>## 🌱 Currently Learning<br><br>- Advanced SQL<br>- Data Analytics<br>- Power BI & DAX<br>- Machine Learning<br>- Backend API Development<br>- Data Structures & Algorithms<br><br>---<br><br>## 📊 Areas of Interest<br><br>- Data Analytics<br>- Business Intelligence<br>- Machine Learning<br>- Python Development<br>- Data-driven Applications<br>- Backend Development<br><br>---<br><br>## 🤝 Let's Connect<br><br>- LinkedIn: nandiniverma23 <br>- Email: naveprof@gmail.com
+### Computer Science Engineering Student | Python | AI/ML | Data
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveprof@gmail.com)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nandiniverma23) 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=32&fontAlignY=38&desc=Python%20%7C%20AI%2FML%20%7C%20Data%20%7C%20Technical%20Communication&descAlignY=58&descAlign=50" width="100%"/>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=naveprof-ops&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=naveprof-ops&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=naveprof-ops&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=naveprof-ops&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 About Me
+
+- 💻 Computer Science Engineering undergraduate at **JECRC Foundation, Jaipur**.
+- 🐍 Working with **Python, C++, C, SQL, Data Structures, DBMS, and OOP**.
+- 🤖 Exploring **AI/ML, NLP, data science, and intelligent applications**.
+- 🛠️ Building projects using **TensorFlow, Keras, Scikit-learn, Pandas, NumPy, FastAPI, and Streamlit**.
+- ✍️ Interested in **technical communication, documentation, research, and simplifying complex concepts**.
+- 🌱 Always learning new technologies, tools, and systems.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+#### 🔬 Skin Cancer Detection System
+**Python · TensorFlow · Keras · Streamlit · FastAPI**
+
+- Developed an application for automated skin-lesion classification.
+- Built REST APIs using FastAPI for model prediction.
+- Created an interactive Streamlit interface for image-based predictions.
+
+#### 📈 Store-Item Demand Forecasting
+**Python · Pandas · LightGBM · Scikit-learn**
+
+- Developed a demand forecasting application for multiple store-item combinations.
+- Built data-processing pipelines using lag, rolling, and date-based features.
+- Evaluated machine learning models to capture demand trends.
+
+#### 💬 Twitter Sentiment Analysis
+**Python · NLP · Scikit-learn · Streamlit**
+
+- Developed a real-time text sentiment classification application.
+- Implemented text preprocessing and TF-IDF feature extraction.
+- Integrated the NLP model into an interactive Streamlit application.
+
+---
+
+### 💼 Experience
+
+**Data Science Intern — Celebal Technologies**  
+*May 2026 – July 2026*
+
+Worked with datasets, predictive models, and data-driven analysis to identify patterns and interpret model performance.
+
+**Python Programming Intern — Centre for Electronic Governance**  
+*June 2025 – July 2025*
+
+Developed Python applications using data structures, functions, OOP, file handling, and exception handling.
+
+---
+
+### 🏆 Leadership & Activities
+
+- 🎤 **MUN Team Lead** — Led a team in research, coordination, and public speaking activities.
+- 🎨 **Student Council | Graphic Design Head** — Led a design team and coordinated creative deliverables for college events.
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="155" alt="Top Languages" />
+</p>
+
+---
+
+### 🌱 Currently Learning
+
+**Data Structures & Algorithms · C++ · AI/ML · NLP · System Design · Technical Communication**
+
+---
+
+<p align="center">
+  <i>Building, learning, experimenting, and documenting along the way. 🚀</i>
+</p>
