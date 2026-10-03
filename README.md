@@ -109,7 +109,7 @@ Developed Python applications using data structures, functions, OOP, file handli
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="155" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=naveprof-ops&layout=compact&theme=tokyonight&hide_border=true" height="155" alt="Top Languages" />
 </p>
 
 ---
